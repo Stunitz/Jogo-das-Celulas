@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo Pronto10", "Assembly-CSharp.csproj", "{B57A0B64-5DFD-D7EE-DCB3-C061CCD608EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57A0B64-5DFD-D7EE-DCB3-C061CCD608EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57A0B64-5DFD-D7EE-DCB3-C061CCD608EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57A0B64-5DFD-D7EE-DCB3-C061CCD608EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57A0B64-5DFD-D7EE-DCB3-C061CCD608EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\1601006\Desktop\pi 4\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\1601057\Desktop\Jogo Pronto4\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
